@@ -80,7 +80,7 @@ class Ramo {
             .attr("role", "img")
             .classed("subject", true)
             // .attr("alt", "Texto de prueba")
-            .attr('id', this.sigla);
+            .attr('id', `ramo-${this.sigla}`);
         // Se establecen tamaños
         let sizeX = this.constructor.getDisplayWidth(scaleX),
             sizeY = this.constructor.getDisplayHeight(scaleY);
