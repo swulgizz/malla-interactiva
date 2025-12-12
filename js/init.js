@@ -16,14 +16,14 @@
     },
 });*/
 
-(function () { // comment out this if needed
-  const allowedHosts = ['localhost', 'booterman98.github.io', 'swulgizz.github.io'];
-  const currentHost = window.location.hostname;
-
-  if (!allowedHosts.includes(currentHost)) {
-    window.location.href = 'https://booterman98.github.io/malla-interactiva/';
-  }
-})();
+// (function () {
+//   const allowedHosts = ['localhost', 'booterman98.github.io'];
+//   const currentHost = window.location.hostname;
+//
+//   if (!allowedHosts.includes(currentHost)) {
+//     window.location.href = 'https://booterman98.github.io/malla-interactiva/';
+//   }
+// })();S
 
 let vh = window.innerHeight * 0.01;
 // Then we set the value in the --vh custom property to the root of the document
