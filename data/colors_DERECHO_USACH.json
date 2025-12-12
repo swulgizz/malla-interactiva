@@ -1,0 +1,34 @@
+{
+  "BAS": [
+    "#2563EB",
+    "Base y formación"
+  ],
+  "ECON": [
+    "#F59E0B",
+    "Económico/Comercial/Laboral"
+  ],
+  "CIV": [
+    "#10B981",
+    "Civil"
+  ],
+  "PROC": [
+    "#EF4444",
+    "Procesal"
+  ],
+  "PEN": [
+    "#8B5CF6",
+    "Penal"
+  ],
+  "PUB": [
+    "#14B8A6",
+    "Público (Const/Admin/Int/Trib)"
+  ],
+  "INT": [
+    "#6B7280",
+    "Integradores/Seminarios"
+  ],
+  "ELEC": [
+    "#0EA5E9",
+    "Electivos de especialización"
+  ]
+}
