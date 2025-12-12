@@ -12,7 +12,7 @@
     [
       "Introducción a la Microeconomía",
       "76168",
-      5,
+      6,
       5,
       "ECON",
       [],
@@ -21,7 +21,7 @@
     [
       "Instituciones del Derecho Romano",
       "76166",
-      5,
+      6,
       5,
       "BAS",
       [],
@@ -30,7 +30,7 @@
     [
       "Historia del Derecho I",
       "76169",
-      5,
+      6,
       5,
       "BAS",
       [],
@@ -48,7 +48,7 @@
     [
       "Expresión Oral y Escrita",
       "76170",
-      3,
+      6,
       3,
       "BAS",
       [],
@@ -59,7 +59,7 @@
     [
       "Introducción al Derecho II",
       "76107",
-      5,
+      6,
       5,
       "BAS",
       [
@@ -70,7 +70,7 @@
     [
       "Introducción a la Macroeconomía",
       "76172",
-      5,
+      6,
       5,
       "ECON",
       [
@@ -81,7 +81,7 @@
     [
       "Historia del Derecho II",
       "76110",
-      5,
+      6,
       5,
       "BAS",
       [
@@ -92,29 +92,29 @@
     [
       "Fundamentos Filosóficos del Derecho",
       "76171",
-      3,
+      6,
       3,
       "BAS",
       [
-        "76165"
+        "76107"
       ],
       "A"
     ],
     [
       "Derecho Constitucional I",
       "76108",
-      5,
+      6,
       5,
       "PUB",
       [
-        "76167"
+        "76170"
       ],
       "A"
     ],
     [
       "Inglés I",
       "76173",
-      3,
+      4,
       3,
       "BAS",
       [],
@@ -129,15 +129,16 @@
       6,
       "CIV",
       [
+        "76107",
         "76166",
-        "76107"
+        "76169"
       ],
       "A"
     ],
     [
       "Derecho Procesal I",
       "76114",
-      5,
+      6,
       5,
       "PROC",
       [
@@ -148,7 +149,7 @@
     [
       "Derecho Económico I",
       "76117",
-      5,
+      6,
       5,
       "ECON",
       [
@@ -159,11 +160,11 @@
     [
       "Derecho Internacional Público",
       "76118",
-      5,
+      6,
       5,
       "PUB",
       [
-        "76107"
+        "76167"
       ],
       "A"
     ],
@@ -181,7 +182,7 @@
     [
       "Inglés II",
       "76174",
-      3,
+      4,
       3,
       "BAS",
       [
@@ -227,7 +228,7 @@
     [
       "Derecho Económico II",
       "76175",
-      3,
+      4,
       3,
       "ECON",
       [
@@ -238,7 +239,7 @@
     [
       "Derecho del Trabajo I",
       "76177",
-      3,
+      4,
       3,
       "ECON",
       [
@@ -249,19 +250,19 @@
     [
       "Argumentación Jurídica",
       "76176",
-      3,
+      4,
       3,
       "BAS",
       [
-        "76170",
-        "76110"
+        "76110",
+        "76168"
       ],
       "A"
     ],
     [
       "Inglés III",
       "76178",
-      3,
+      4,
       3,
       "BAS",
       [
@@ -274,7 +275,7 @@
     [
       "Derecho Civil III",
       "76129",
-      5,
+      6,
       5,
       "CIV",
       [
@@ -285,7 +286,7 @@
     [
       "Derecho Procesal III",
       "76127",
-      5,
+      6,
       5,
       "PROC",
       [
@@ -296,7 +297,7 @@
     [
       "Derecho Penal II",
       "76179",
-      4,
+      6,
       4,
       "PEN",
       [
@@ -307,7 +308,7 @@
     [
       "Derecho Comercial I",
       "76130",
-      5,
+      6,
       5,
       "ECON",
       [
@@ -318,7 +319,7 @@
     [
       "Derecho del Trabajo II",
       "76180",
-      3,
+      6,
       3,
       "ECON",
       [
@@ -329,18 +330,18 @@
     [
       "Derecho Administrativo I",
       "76181",
-      5,
+      6,
       5,
       "PUB",
       [
-        "76122"
+        "76129"
       ],
       "A"
     ],
     [
       "Inglés IV",
       "76182",
-      3,
+      6,
       3,
       "BAS",
       [
@@ -353,7 +354,7 @@
     [
       "Derecho Civil IV",
       "76136",
-      5,
+      6,
       5,
       "CIV",
       [
@@ -364,7 +365,7 @@
     [
       "Derecho Procesal IV",
       "76134",
-      5,
+      6,
       5,
       "PROC",
       [
@@ -386,7 +387,7 @@
     [
       "Derecho Comercial II",
       "76137",
-      5,
+      6,
       5,
       "ECON",
       [
@@ -395,23 +396,22 @@
       "A"
     ],
     [
-      "Integrador I: Clínica Jurídica I",
+      "Integrador I: Clínica Jurídica",
       "76183",
-      3,
+      6,
       3,
       "INT",
       [
-        "76176",
         "76129",
-        "76127",
-        "76180"
+        "76134",
+        "76179"
       ],
       "A"
     ],
     [
       "Derecho Administrativo II",
       "76139",
-      5,
+      6,
       5,
       "PUB",
       [
@@ -422,7 +422,7 @@
     [
       "Inglés Jurídico",
       "76184",
-      3,
+      6,
       3,
       "BAS",
       [
@@ -446,7 +446,7 @@
     [
       "Derecho Procesal V",
       "76141",
-      5,
+      6,
       5,
       "PROC",
       [
@@ -457,7 +457,7 @@
     [
       "Derecho Penal IV",
       "76185",
-      6,
+      4,
       6,
       "PEN",
       [
@@ -479,23 +479,22 @@
     [
       "Contabilidad",
       "76186",
-      4,
+      6,
       4,
       "ECON",
       [
-        "76137"
+        "76136"
       ],
       "A"
     ],
     [
       "Electivo de Especialización I",
       "76145",
-      3,
+      4,
       3,
       "ELEC",
       [
         "76130",
-        "76181",
         "76183"
       ],
       "A"
@@ -536,7 +535,7 @@
       "A"
     ],
     [
-      "Integrador II: Clínica Jurídica II",
+      "Integrador II: Clínica Jurídica",
       "76150",
       6,
       6,
@@ -549,13 +548,12 @@
     [
       "Electivo de Especialización II",
       "76151",
-      3,
+      4,
       3,
       "ELEC",
       [
-        "76136",
-        "76134",
-        "76137",
+        "76143",
+        "76185",
         "76139"
       ],
       "A"
@@ -563,13 +561,12 @@
     [
       "Electivo de Especialización III",
       "76152",
-      3,
+      4,
       3,
       "ELEC",
       [
-        "76136",
-        "76134",
-        "76137",
+        "76143",
+        "76185",
         "76139"
       ],
       "A"
@@ -579,7 +576,7 @@
     [
       "Derecho Civil VII",
       "76155",
-      5,
+      6,
       5,
       "CIV",
       [
@@ -590,9 +587,9 @@
     [
       "Derecho Minero I",
       "76153",
+      6,
       5,
-      5,
-      "ECON",
+      "PUB",
       [
         "76147"
       ],
@@ -601,7 +598,7 @@
     [
       "Derecho del Medio Ambiente y Recursos Naturales",
       "76154",
-      5,
+      6,
       5,
       "PUB",
       [
@@ -612,18 +609,18 @@
     [
       "Derecho de la Seguridad Social",
       "76188",
+      6,
       5,
-      5,
-      "PUB",
+      "ECON",
       [
-        "76180"
+        "76137"
       ],
       "A"
     ],
     [
       "Seminario de Investigación Jurídica",
       "76187",
-      7,
+      4,
       7,
       "INT",
       [
@@ -636,9 +633,9 @@
       "76160",
       6,
       6,
-      "ECON",
+      "PUB",
       [
-        "76143"
+        "76149"
       ],
       "A"
     ]
@@ -647,23 +644,23 @@
     [
       "Ética Profesional",
       "76189",
-      5,
+      6,
       5,
       "BAS",
       [
-        "76150"
+        "76155"
       ],
       "A"
     ],
     [
       "Electivo de Especialización IV",
       "76156",
-      3,
+      4,
       3,
       "ELEC",
       [
-        "76143",
         "76141",
+        "76142",
         "76144"
       ],
       "A"
@@ -671,7 +668,7 @@
     [
       "Derecho Internacional Privado y Solución de Controversias Internacionales",
       "76190",
-      5,
+      6,
       5,
       "PUB",
       [
@@ -680,26 +677,26 @@
       "A"
     ],
     [
-      "Integrado III: Seminario de Examen de Grado",
+      "Integrador III: Seminario de Examen de Grado",
       "76164",
-      8,
+      4,
       8,
       "INT",
       [
-        "76155",
-        "76156"
+        "76153",
+        "76160"
       ],
       "A"
     ],
     [
       "Electivo de Especialización V",
       "76161",
-      3,
+      4,
       3,
       "ELEC",
       [
         "76149",
-        "76147"
+        "76155"
       ],
       "A"
     ],
