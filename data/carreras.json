@@ -94,5 +94,10 @@
   {
     "Nombre": "Ingeniería en Biotecnología",
     "Link": "IBT"
-  }
+  },
+	{
+  "Nombre": "Derecho (USACH)",
+  "Link": "DERECHO_USACH"
+}
+
 ]
