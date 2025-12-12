@@ -48,7 +48,7 @@ class SelectableRamo extends Ramo {
                 this.ramo.select(".selected").transition().delay(20).attr("opacity", "0.01");
 
             this.malla.semesterManager.removeSubject(this)
-            let card = d3.select('#p-' + this.sigla);
+            let card = d3.select(`#p-ramo-${this.sigla}`);
             card.transition().duration(300).style("opacity", "0.001").remove();
 
         }
