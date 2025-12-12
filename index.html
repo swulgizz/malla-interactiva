@@ -168,6 +168,15 @@
   </script>
   <script type="text/template" data-template="tab-template2">
     <a class="dropdown-item" href="?m=${Link}">Malla ${Nombre}</a>
-  </script>
+  </script> 
+  <script>
+  function removePopUp() {
+    const overlay = document.getElementById("overlay");
+    if (overlay) {
+      overlay.style.display = "none";
+    }
+  }
+</script>
+
 </body>
 </html>
